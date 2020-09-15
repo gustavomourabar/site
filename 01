@@ -1,0 +1,2 @@
+/* escreve um texto no corpo do documento */
+document.write("olaaaaaaaaa");
