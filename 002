@@ -1,0 +1,11 @@
+/* objeto window.prompt () */
+prompt("Digite o seu nome");
+
+/* Saida objeto windows.alert () */
+alert("janela Alerta");
+
+/* saida objeto document.write () */
+document.write("<p style='color:#f00;font-size:80px;'>saida no documento</p>");
+ 
+/* Entrada ojeto wnidowa.confirm - boolean */
+confirm("deseja sair desta página");
