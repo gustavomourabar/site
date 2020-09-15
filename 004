@@ -1,0 +1,12 @@
+/* declarando variaveis */
+var nome, sobrenome, idade;
+
+/* atribuido valores */
+nome     = "Joaquim";
+sobenome = "da silva";
+idade    = 22;
+
+/* escreve od valores das variaveis */
+document.write("Nome: "+nome+"<br>");
+document.write("sobrenome "+sobrenome+"<br>");
+document.write("idade: "+idade+"<br>");
