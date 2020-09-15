@@ -1,0 +1,4 @@
+/* declarando variaveis */
+var nome, sobrenome, idade;
+var sobrenome;
+var idade;
