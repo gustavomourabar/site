@@ -1,0 +1,13 @@
+<!Doctype html>
+<html>
+    <head>
+	    <title>javascript 04</title>
+		<meta charset="utf-8">
+    </head>
+    <body>
+        <!-- Javascrept entrada/saida -->
+		
+		<!-- Javascrept externo -->
+		<script src="js/04.js"> </script>
+     </body>
+</html>
